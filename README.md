@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner](https://www.pinterest.com/pin/66568900738903987/) <!-- Replace with your own banner -->
+![banner](https://www.pinterest.com/pin/66568900738903987) <!-- Replace with your own banner -->
 
 # 👋 Hey, I'm NERO  
 
