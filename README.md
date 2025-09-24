@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner]("C:\Users\USER\Downloads\ass.jpg") <!-- Replace with your own banner -->
+![banner]("ass.jpg") <!-- Replace with your own banner -->
 
 # 👋 Hey, I'm NERO  
 
