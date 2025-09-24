@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner](https://i.imgur.com/6oZ9QTr.png) <!-- Replace with your own banner -->
+![banner](C:\Users\USER\Downloads\download (2).jpg) <!-- Replace with your own banner -->
 
 # 👋 Hey, I'm NERO  
 
