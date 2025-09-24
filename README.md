@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner]("ass.jpg") <!-- Replace with your own banner -->
+![banner](https://raw.githubusercontent.com/imNero1/imNero1/main/ass.jpg) <!-- Replace with your own banner -->
 
 # 👋 Hey, I'm NERO  
 
