@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm NERO  
 
-<!--
-**imNero1/imNero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-;;??
-Here are some ideas to get you started:
+💻 **CS Student | Developer in Progress | Cybersecurity Enthusiast**  
+🎮 Passionate about **Gaming, CyberSec, and Building Cool Stuff**  
+📚 Always learning & improving — currently exploring **C & C++**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python | C (learning) | C++ (learning) | PHP | JavaScript | HTML | CSS  
+- **Interests:** Cybersecurity, Web Dev, Systems Programming, Gaming Tech  
+
+---
+
+### 🚀 What I'm Up To
+- 📖 Studying **Computer Science Engineering (Year 1)**  
+- 🌱 Diving deeper into **CyberSec & C/C++**  
+- 🤝 Open to **collaborations, projects & learning opportunities**  
+
+---
+
+### 🎯 Goals
+- Build real-world projects to strengthen my skills  
+- Explore **penetration testing & security research**  
+- Share knowledge and grow through open-source  
+
+---
+
+⭐ *“Code. Break. Learn. Repeat.”*  
