@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner](https://raw.githubusercontent.com/imNero1/imNero1/main/spacetalin.gif) <!-- Replace with your own banner -->
+![banner](https://raw.githubusercontent.com/imNero1/imNero1/main/mid.gif) <!-- Replace with your own banner -->
 
 # 👋 Hey, I'm NERO  
 
