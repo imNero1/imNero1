@@ -20,7 +20,7 @@
 
 ## 🛠️ Languages & Tools I Use  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=sql,python,php,js,html,css,c,cpp,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,python,php,js,html,css,c,cpp,linux,git,github,vscode&theme=dark" />
 </p>
 
 ---
