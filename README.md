@@ -20,7 +20,7 @@
 
 ## 🛠️ Languages & Tools I Use  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css,c,cpp,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sql,python,php,js,html,css,c,cpp,linux,git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ## 📫 Connect with Me  
 <p align="center">
 <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:nerolimbo1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <!-- Add LinkedIn / Website if you want -->
 </p>
 
