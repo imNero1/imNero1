@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![banner](https://raw.githubusercontent.com/imNero1/imNero1/main/mid.gif) <!-- Replace with your own banner -->
 
-# 👋 Hey, I'm NERO  
+# Salve ! I'm NERO  
 
 💻 **CS Student | Developer in Progress | Cybersecurity Enthusiast**  
 🎮 Passionate about **Gaming, CyberSec, and Building Cool Stuff**  
