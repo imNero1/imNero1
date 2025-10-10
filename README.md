@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me  
 - 🌱 First-year **Computer Science Engineering** student  
-- ⚡ Learning **C, C++** while strengthening my base in **Python, PHP, HTML/CSS/JS**  
+- ⚡ Learning **C, C++** while strengthening my base in **Python, PHP, HTML/CSS/JS, SQL**  
 - 🔒 Interested in **Cybersecurity, Web Development, Systems Programming**  
 - 🎯 Gamer at heart — always looking to mix tech & creativity  
 - 🤝 Open to **projects, collabs & learning opportunities**  
