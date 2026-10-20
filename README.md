@@ -10,11 +10,11 @@
 
 ### Experience
 
-`Python` `Angular` `TypeScript` `JavaScript` `Java` `HTML/CSS` `C` `MySQL` `PL/SQL`
+`Python` `Angular` `TypeScript` `JavaScript` `Java` `HTML/CSS` `C` `MySQL` `PL/SQL` `postgresql` 
 
 ### Systems
 
-`Pop!_OS` `Kali Linux` `Garuda Linux`
+`Pop!_OS` `Kali Linux` `Garuda Linux` `windows 11` 
 
 ---
 
