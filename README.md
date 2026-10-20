@@ -1,53 +1,29 @@
-<!-- Banner -->
-![banner](https://raw.githubusercontent.com/imNero1/imNero1/main/mid.gif) <!-- Replace with your own banner -->
+<div align="center">
 
-# Salve 🙏 I'm NERO  
+<img src="https://raw.githubusercontent.com/imNero1/imNero1/main/mid.gif" alt="banner" width="100%">
 
-💻 **CS Student | Developer in Progress | Cybersecurity Enthusiast**  
-🎮 Passionate about **Gaming, CyberSec, and Building Cool Stuff**  
-📚 Always learning & improving — currently exploring **C & C++**  
+# NERO
 
----
-
-## 🧑‍💻 About Me  
-- 🌱 First-year **Computer Science Engineering** student  
-- ⚡ Learning **C, C++** while strengthening my base in **Python, PHP, HTML/CSS/JS, SQL**  
-- 🔒 Interested in **Cybersecurity, Web Development, Systems Programming**  
-- 🎯 Gamer at heart — always looking to mix tech & creativity  
-- 🤝 Open to **projects, collabs & learning opportunities**  
+</div>
 
 ---
 
-## 🛠️ Languages & Tools I Use  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,python,php,js,html,css,c,cpp,linux,git,github,vscode&theme=dark" />
-</p>
+### Experience
+
+`Python` `Angular` `TypeScript` `JavaScript` `Java` `HTML/CSS` `C` `MySQL` `PL/SQL`
+
+### Systems
+
+`Pop!_OS` `Kali Linux` `Garuda Linux`
 
 ---
 
-## 📊 GitHub Stats  
+### Contact
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imNero1&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imNero1&theme=synthwave&hide_border=true" />
-</p>
+[nerolimbo1@gmail.com](mailto:nerolimbo1@gmail.com) · [GitHub](https://github.com/imNero1)
 
----
+<div align="center">
 
-## 🎯 Goals  
-- 🚀 Build real-world projects & share them here  
-- 🛡️ Dive deeper into **penetration testing & security research**  
-- 🌐 Grow through **open-source & collaborations**  
+<sub>Never fade away</sub>
 
----
-
-## 📫 Connect with Me  
-<p align="center">
-<a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:nerolimbo1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- Add LinkedIn / Website if you want -->
-</p>
-
----
-
-⭐ *“Code. Break. Learn. Repeat.”*
+</div>
