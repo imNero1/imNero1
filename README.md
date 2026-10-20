@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/imNero1/imNero1/main/mid.gif" alt="banner" width="100%">
 
-# NERO
+# NEROGASM
 
 </div>
 
